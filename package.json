@@ -1,17 +1,28 @@
 {
-  "name": "exceptions",
+  "name": "langoor-exceptions",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "The 21st century javascript unit testing framework.",
+  "main": "src/hope.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "langoor"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/langoor/exceptions.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "test",
+    "tests",
+    "testing",
+    "langoor",
+    "mocha",
+    "chai",
+    "jest",
+    "supertest",
+    "karma",
+    "ava"
+  ],
+  "author": "squik",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/langoor/exceptions/issues"
